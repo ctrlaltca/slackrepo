@@ -1,0 +1,11 @@
+qqc2-breeze-style: qqc2-breeze-style (QQC2 Breeze Style)
+qqc2-breeze-style:
+qqc2-breeze-style: This is a pure Qt Quick/Kirigami Qt Quick Controls style. Unlike
+qqc2-breeze-style: QQC2-Desktop-Style, it does not depend on Qt Widgets and the system
+qqc2-breeze-style: QStyle.
+qqc2-breeze-style:
+qqc2-breeze-style:
+qqc2-breeze-style:
+qqc2-breeze-style:
+qqc2-breeze-style:
+qqc2-breeze-style:

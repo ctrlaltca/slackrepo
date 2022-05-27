@@ -1,0 +1,17 @@
+PACKAGE NAME:  plasma-systemmonitor-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  212 K
+PACKAGE SIZE (uncompressed):  1400 K
+PACKAGE DESCRIPTION:
+plasma-systemmonitor: plasma-systemmonitor (system resource monitor)
+plasma-systemmonitor:
+plasma-systemmonitor: plasma-systemmonitor provides an interface for monitoring system
+plasma-systemmonitor: sensors, process information and other system resources. It is built
+plasma-systemmonitor: on top of the faces system also used to provide widgets for
+plasma-systemmonitor: plasma-desktop and makes use of the ksystemstats daemon to provide
+plasma-systemmonitor: sensor information.
+plasma-systemmonitor:
+plasma-systemmonitor:
+plasma-systemmonitor:
+plasma-systemmonitor:
+

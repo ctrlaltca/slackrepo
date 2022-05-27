@@ -1,0 +1,11 @@
+plasma-firewall: plasma-firewall (Plasma firewall KCM)
+plasma-firewall:
+plasma-firewall: Plasma KConfig Modules for configuring a firewall.
+plasma-firewall:
+plasma-firewall:
+plasma-firewall:
+plasma-firewall:
+plasma-firewall:
+plasma-firewall:
+plasma-firewall:
+plasma-firewall:

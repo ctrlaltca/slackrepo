@@ -1,0 +1,801 @@
+PACKAGES.TXT;  Fri May 27 14:07:58 UTC 2022
+
+PACKAGE NAME:  qt5-5.15.4_20220518_735f66be-x86_64-1.txz
+PACKAGE LOCATION:  ./l
+PACKAGE SIZE (compressed):  96688 K
+PACKAGE SIZE (uncompressed):  402380 K
+PACKAGE DESCRIPTION:
+qt5: qt5 (a C++ graphical user interface toolkit)
+qt5:
+qt5: Qt is a complete and well-developed object-oriented framework for
+qt5: developing graphical user interface (GUI) applications using C++.
+qt5:
+qt5: Homepage: http://www.qt.io/
+qt5:
+qt5:
+qt5:
+qt5:
+qt5:
+
+PACKAGE NAME:  bluedevil-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  288 K
+PACKAGE SIZE (uncompressed):  1910 K
+PACKAGE DESCRIPTION:
+bluedevil: bluedevil (bluetooth stack for KDE)
+bluedevil:
+bluedevil: BlueDevil is the bluetooth stack for KDE.
+bluedevil:
+bluedevil: Homepage: http://www.afiestas.org/
+bluedevil:
+bluedevil:
+bluedevil:
+bluedevil:
+bluedevil:
+bluedevil:
+
+PACKAGE NAME:  breeze-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  7300 K
+PACKAGE SIZE (uncompressed):  13780 K
+PACKAGE DESCRIPTION:
+breeze: breeze (artwork for Plasma)
+breeze:
+breeze: Artwork, styles and assets for the Breeze visual style for the Plasma
+breeze: Desktop.
+breeze:
+breeze:
+breeze:
+breeze:
+breeze:
+breeze:
+breeze:
+
+PACKAGE NAME:  breeze-grub-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  3104 K
+PACKAGE SIZE (uncompressed):  13080 K
+PACKAGE DESCRIPTION:
+breeze-grub: breeze-grub (Breeze theme for GRUB)
+breeze-grub:
+breeze-grub: Breeze theme for GRUB.
+breeze-grub:
+breeze-grub:
+breeze-grub:
+breeze-grub:
+breeze-grub:
+breeze-grub:
+breeze-grub:
+breeze-grub:
+
+PACKAGE NAME:  breeze-gtk-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  176 K
+PACKAGE SIZE (uncompressed):  1630 K
+PACKAGE DESCRIPTION:
+breeze-gtk: breeze-gtk (Breeze widget theme for GTK 2 and 3)
+breeze-gtk:
+breeze-gtk: Breeze widget theme for GTK 2 and 3.
+breeze-gtk:
+breeze-gtk:
+breeze-gtk:
+breeze-gtk:
+breeze-gtk:
+breeze-gtk:
+breeze-gtk:
+breeze-gtk:
+
+PACKAGE NAME:  drkonqi-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  424 K
+PACKAGE SIZE (uncompressed):  2550 K
+PACKAGE DESCRIPTION:
+drkonqi: drkonqi (crash handler for plasma5)
+drkonqi:
+drkonqi: Drkonqi is the crash handler for KDE Frameworks 5 / Plasma5.
+drkonqi:
+drkonqi:
+drkonqi:
+drkonqi:
+drkonqi:
+drkonqi:
+drkonqi:
+drkonqi:
+
+PACKAGE NAME:  kactivitymanagerd-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  188 K
+PACKAGE SIZE (uncompressed):  1030 K
+PACKAGE DESCRIPTION:
+kactivitymanagerd: kactivitymanagerd (manage and track user activities)
+kactivitymanagerd:
+kactivitymanagerd: System service to manage user activities and track the usage patterns.
+kactivitymanagerd:
+kactivitymanagerd: Homepage:
+kactivitymanagerd:   https://projects.kde.org/projects/kde/workspace/kactivitymanagerd
+kactivitymanagerd:
+kactivitymanagerd:
+kactivitymanagerd:
+kactivitymanagerd:
+kactivitymanagerd:
+
+PACKAGE NAME:  kde-cli-tools-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  852 K
+PACKAGE SIZE (uncompressed):  5180 K
+PACKAGE DESCRIPTION:
+kde-cli-tools: kde-cli-tools (KDE command-line tools)
+kde-cli-tools:
+kde-cli-tools: Tools based on KDE Frameworks 5 to better interact with the system.
+kde-cli-tools:
+kde-cli-tools:
+kde-cli-tools:
+kde-cli-tools:
+kde-cli-tools:
+kde-cli-tools:
+kde-cli-tools:
+kde-cli-tools:
+
+PACKAGE NAME:  kde-gtk-config-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  84 K
+PACKAGE SIZE (uncompressed):  470 K
+PACKAGE DESCRIPTION:
+kde-gtk-config: kde-gtk-config (configure GTK appearance)
+kde-gtk-config:
+kde-gtk-config: System settings kcm to set GTK application look and feel in KDE.
+kde-gtk-config:
+kde-gtk-config: Homepage: http://projects.kde.org/kde-gtk-config
+kde-gtk-config:
+kde-gtk-config:
+kde-gtk-config:
+kde-gtk-config:
+kde-gtk-config:
+kde-gtk-config:
+
+PACKAGE NAME:  kdecoration-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  76 K
+PACKAGE SIZE (uncompressed):  440 K
+PACKAGE DESCRIPTION:
+kdecoration: kdecoration (library to create themes for kwin)
+kdecoration:
+kdecoration: This library makes it easier and more reliable to make themes for
+kdecoration: KWin, Plasma's window manager. It has impressive memory, performance
+kdecoration: and stability improvements.
+kdecoration:
+kdecoration:
+kdecoration:
+kdecoration:
+kdecoration:
+kdecoration:
+
+PACKAGE NAME:  kdeplasma-addons-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  792 K
+PACKAGE SIZE (uncompressed):  7110 K
+PACKAGE DESCRIPTION:
+kdeplasma-addons: kdeplasma-addons (Plasma addons for KDE)
+kdeplasma-addons:
+kdeplasma-addons: Plasmoids (or widgets) for the KDE Plasma Desktop shell.
+kdeplasma-addons:
+kdeplasma-addons:
+kdeplasma-addons:
+kdeplasma-addons:
+kdeplasma-addons:
+kdeplasma-addons:
+kdeplasma-addons:
+kdeplasma-addons:
+
+PACKAGE NAME:  kgamma5-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  148 K
+PACKAGE SIZE (uncompressed):  650 K
+PACKAGE DESCRIPTION:
+kgamma5: kgamma5 (display gamma configuration)
+kgamma5:
+kgamma5: A KDE system settings module to configure display gamma.
+kgamma5:
+kgamma5:
+kgamma5:
+kgamma5:
+kgamma5:
+kgamma5:
+kgamma5:
+kgamma5:
+
+PACKAGE NAME:  khotkeys-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  1952 K
+PACKAGE SIZE (uncompressed):  4410 K
+PACKAGE DESCRIPTION:
+khotkeys: khotkeys (custom shortcuts)
+khotkeys:
+khotkeys: The Custom Shortcuts systemsettings module allows you to configure
+khotkeys: custom keyboard shortcuts and mouse gestures. You can use them to
+khotkeys: control applications, run specific commands, and more.
+khotkeys:
+khotkeys:
+khotkeys:
+khotkeys:
+khotkeys:
+khotkeys:
+
+PACKAGE NAME:  kinfocenter-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  956 K
+PACKAGE SIZE (uncompressed):  4630 K
+PACKAGE DESCRIPTION:
+kinfocenter: kinfocenter (info about your computer)
+kinfocenter:
+kinfocenter: KInfocenter gives you a host of information about your hardware and
+kinfocenter: its capabilities.
+kinfocenter:
+kinfocenter:
+kinfocenter:
+kinfocenter:
+kinfocenter:
+kinfocenter:
+kinfocenter:
+
+PACKAGE NAME:  kmenuedit-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  1020 K
+PACKAGE SIZE (uncompressed):  2170 K
+PACKAGE DESCRIPTION:
+kmenuedit: kmenuedit (XDG menu editor)
+kmenuedit:
+kmenuedit: This package provides a menu editor which may be used to edit the KDE
+kmenuedit: Plasma workspaces menu or any other XDG menu.
+kmenuedit:
+kmenuedit:
+kmenuedit:
+kmenuedit:
+kmenuedit:
+kmenuedit:
+kmenuedit:
+
+PACKAGE NAME:  kscreen-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  236 K
+PACKAGE SIZE (uncompressed):  1320 K
+PACKAGE DESCRIPTION:
+kscreen: kscreen (KDE screen management)
+kscreen:
+kscreen: KScreen is the new screen management software for KDE Plasma
+kscreen: Workspaces which tries to be as magic and automatic as possible for
+kscreen: users with basic needs and easy to configure for those who want
+kscreen: special setups. 
+kscreen:
+kscreen: Homepage: http://community.kde.org/Solid/Projects/ScreenManagement
+kscreen:
+kscreen:
+kscreen:
+
+PACKAGE NAME:  kscreenlocker-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  168 K
+PACKAGE SIZE (uncompressed):  990 K
+PACKAGE DESCRIPTION:
+kscreenlocker: kscreenlocker (secure lock screen architecture)
+kscreenlocker:
+kscreenlocker: Library and components for secure lock screen architecture.
+kscreenlocker:
+kscreenlocker: Homepage: https://projects.kde.org/kscreenlocker
+kscreenlocker:
+kscreenlocker:
+kscreenlocker:
+kscreenlocker:
+kscreenlocker:
+kscreenlocker:
+
+PACKAGE NAME:  ksshaskpass-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  28 K
+PACKAGE SIZE (uncompressed):  220 K
+PACKAGE DESCRIPTION:
+ksshaskpass: ksshaskpass (GUI for entering ssh key passwords)
+ksshaskpass:
+ksshaskpass: If you access computers with ssh keys but those keys have passwords
+ksshaskpass: this module will give you a graphical UI to enter those passwords.
+ksshaskpass:
+ksshaskpass:
+ksshaskpass:
+ksshaskpass:
+ksshaskpass:
+ksshaskpass:
+ksshaskpass:
+
+PACKAGE NAME:  ksystemstats-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  172 K
+PACKAGE SIZE (uncompressed):  1050 K
+PACKAGE DESCRIPTION:
+ksystemstats: ksystemstats (daemon to collect system statistics)
+ksystemstats:
+ksystemstats: SystemStats is a daemon that collects statistics about the running
+ksystemstats: system.
+ksystemstats:
+ksystemstats:
+ksystemstats:
+ksystemstats:
+ksystemstats:
+ksystemstats:
+ksystemstats:
+
+PACKAGE NAME:  kwallet-pam-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  20 K
+PACKAGE SIZE (uncompressed):  80 K
+PACKAGE DESCRIPTION:
+kwallet-pam: kwallet-pam (KWallet PAM integration)
+kwallet-pam:
+kwallet-pam: KWallet PAM integration.
+kwallet-pam:
+kwallet-pam:
+kwallet-pam:
+kwallet-pam:
+kwallet-pam:
+kwallet-pam:
+kwallet-pam:
+kwallet-pam:
+
+PACKAGE NAME:  kwayland-integration-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  44 K
+PACKAGE SIZE (uncompressed):  210 K
+PACKAGE DESCRIPTION:
+kwayland-integration: kwayland-integration (wayland integration plugins for KDE Frameworks)
+kwayland-integration:
+kwayland-integration: Kwayland-integration provides integration plugins for various KDE
+kwayland-integration: Frameworks for Wayland.
+kwayland-integration:
+kwayland-integration:
+kwayland-integration:
+kwayland-integration:
+kwayland-integration:
+kwayland-integration:
+kwayland-integration:
+
+PACKAGE NAME:  kwayland-server-5.24.5-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  392 K
+PACKAGE SIZE (uncompressed):  2360 K
+PACKAGE DESCRIPTION:
+kwayland-server: kwayland-server (wayland server components)
+kwayland-server:
+kwayland-server: Wayland server components built on KDE Frameworks.
+kwayland-server:
+kwayland-server:
+kwayland-server:
+kwayland-server:
+kwayland-server:
+kwayland-server:
+kwayland-server:
+kwayland-server:
+
+PACKAGE NAME:  kwin-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  6768 K
+PACKAGE SIZE (uncompressed):  27980 K
+PACKAGE DESCRIPTION:
+kwin: kwin (KDE window manager)
+kwin:
+kwin: KWin is a window manager for the X Window System. It is an integral
+kwin: part, and the default window manager of the Plasma Workspaces, but it
+kwin: can also be used on its own or with other desktop environments.
+kwin:
+kwin:
+kwin:
+kwin:
+kwin:
+kwin:
+
+PACKAGE NAME:  kwrited-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  24 K
+PACKAGE SIZE (uncompressed):  80 K
+PACKAGE DESCRIPTION:
+kwrited: kwrited (write daemon)
+kwrited:
+kwrited: Watch for messages from local users sent with write(1) or wall(1).
+kwrited:
+kwrited:
+kwrited:
+kwrited:
+kwrited:
+kwrited:
+kwrited:
+kwrited:
+
+PACKAGE NAME:  layer-shell-qt-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  28 K
+PACKAGE SIZE (uncompressed):  140 K
+PACKAGE DESCRIPTION:
+layer-shell-qt: layer-shell-qt (Wayland layer surface support)
+layer-shell-qt:
+layer-shell-qt: This component is meant for applications to be able to easily use
+layer-shell-qt: clients based on wlr-layer-shell.
+layer-shell-qt:
+layer-shell-qt:
+layer-shell-qt:
+layer-shell-qt:
+layer-shell-qt:
+layer-shell-qt:
+layer-shell-qt:
+
+PACKAGE NAME:  libkscreen-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  228 K
+PACKAGE SIZE (uncompressed):  1060 K
+PACKAGE DESCRIPTION:
+libkscreen: libkscreen (screen management library)
+libkscreen:
+libkscreen: LibKScreen is a library that provides access to current configuration
+libkscreen: of connected displays and ways to change the configuration.
+libkscreen:
+libkscreen:
+libkscreen:
+libkscreen:
+libkscreen:
+libkscreen:
+libkscreen:
+
+PACKAGE NAME:  libksysguard-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  944 K
+PACKAGE SIZE (uncompressed):  7420 K
+PACKAGE DESCRIPTION:
+libksysguard: libksysguard (system information library)
+libksysguard:
+libksysguard: Library to retrieve information on the current status of your computer
+libksysguard: hardware.
+libksysguard:
+libksysguard:
+libksysguard:
+libksysguard:
+libksysguard:
+libksysguard:
+libksysguard:
+
+PACKAGE NAME:  milou-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  80 K
+PACKAGE SIZE (uncompressed):  530 K
+PACKAGE DESCRIPTION:
+milou: milou (Plasma search applet)
+milou:
+milou: A Plasma applet that can search files, emails, contacts, events and
+milou: more data indexed by KDE Desktop Search.
+milou:
+milou:
+milou:
+milou:
+milou:
+milou:
+milou:
+
+PACKAGE NAME:  oxygen-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  2772 K
+PACKAGE SIZE (uncompressed):  18940 K
+PACKAGE DESCRIPTION:
+oxygen: oxygen (KDE window manager theme)
+oxygen:
+oxygen: Oxygen KDE window manager theme.
+oxygen:
+oxygen:
+oxygen:
+oxygen:
+oxygen:
+oxygen:
+oxygen:
+oxygen:
+
+PACKAGE NAME:  plasma-browser-integration-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  192 K
+PACKAGE SIZE (uncompressed):  1130 K
+PACKAGE DESCRIPTION:
+plasma-browser-integration: plasma-browser-integration (integrate browsers into Plasma)
+plasma-browser-integration:
+plasma-browser-integration: The plasma-browser-integration package contains components necessary
+plasma-browser-integration: to integrate browsers into the Plasma Desktop
+plasma-browser-integration:
+plasma-browser-integration:
+plasma-browser-integration:
+plasma-browser-integration:
+plasma-browser-integration:
+plasma-browser-integration:
+plasma-browser-integration:
+
+PACKAGE NAME:  plasma-desktop-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  7164 K
+PACKAGE SIZE (uncompressed):  26650 K
+PACKAGE DESCRIPTION:
+plasma-desktop: plasma-desktop (KDE Plasma Desktop)
+plasma-desktop:
+plasma-desktop: Provides the environment for running and managing applications and
+plasma-desktop: integrating interaction of applications. It is designed as a generic
+plasma-desktop: environment for all kinds of desktop applications, not only
+plasma-desktop: applications built on the KDE Platform. It integrates best with
+plasma-desktop: applications following the standards used by the KDE Platform.
+plasma-desktop:
+plasma-desktop:
+plasma-desktop:
+plasma-desktop:
+
+PACKAGE NAME:  plasma-disks-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  132 K
+PACKAGE SIZE (uncompressed):  730 K
+PACKAGE DESCRIPTION:
+plasma-disks: plasma-disks (disk health monitor)
+plasma-disks:
+plasma-disks: Plasma Disks monitors S.M.A.R.T. data of disks and alerts the user
+plasma-disks: when signs of imminent failure appear.
+plasma-disks:
+plasma-disks:
+plasma-disks:
+plasma-disks:
+plasma-disks:
+plasma-disks:
+plasma-disks:
+
+PACKAGE NAME:  plasma-firewall-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  444 K
+PACKAGE SIZE (uncompressed):  1430 K
+PACKAGE DESCRIPTION:
+plasma-firewall: plasma-firewall (Plasma firewall KCM)
+plasma-firewall:
+plasma-firewall: Plasma KConfig Modules for configuring a firewall.
+plasma-firewall:
+plasma-firewall:
+plasma-firewall:
+plasma-firewall:
+plasma-firewall:
+plasma-firewall:
+plasma-firewall:
+plasma-firewall:
+
+PACKAGE NAME:  plasma-integration-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  164 K
+PACKAGE SIZE (uncompressed):  820 K
+PACKAGE DESCRIPTION:
+plasma-integration: plasma-integration (Plasma theme integration plugins)
+plasma-integration:
+plasma-integration: Plasma Integration is a set of plugins responsible for better
+plasma-integration: integration of Qt applications when running on a KDE Plasma workspace.
+plasma-integration:
+plasma-integration:
+plasma-integration:
+plasma-integration:
+plasma-integration:
+plasma-integration:
+plasma-integration:
+
+PACKAGE NAME:  plasma-nm-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  1252 K
+PACKAGE SIZE (uncompressed):  8990 K
+PACKAGE DESCRIPTION:
+plasma-nm: plasma-nm (KDE networkmanagement applet)
+plasma-nm:
+plasma-nm: This package contains the KDE networkmanagement applet for Plasma.
+plasma-nm:
+plasma-nm:
+plasma-nm:
+plasma-nm:
+plasma-nm:
+plasma-nm:
+plasma-nm:
+plasma-nm:
+
+PACKAGE NAME:  plasma-pa-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  228 K
+PACKAGE SIZE (uncompressed):  1330 K
+PACKAGE DESCRIPTION:
+plasma-pa: plasma-pa (Plasma PA volume applet)
+plasma-pa:
+plasma-pa: Plasma applet for audio volume management using PulseAudio.
+plasma-pa:
+plasma-pa:
+plasma-pa:
+plasma-pa:
+plasma-pa:
+plasma-pa:
+plasma-pa:
+plasma-pa:
+
+PACKAGE NAME:  plasma-sdk-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  332 K
+PACKAGE SIZE (uncompressed):  2450 K
+PACKAGE DESCRIPTION:
+plasma-sdk: plasma-sdk (Plasma development applications)
+plasma-sdk:
+plasma-sdk: Applications useful for Plasma Development.
+plasma-sdk:
+plasma-sdk:
+plasma-sdk:
+plasma-sdk:
+plasma-sdk:
+plasma-sdk:
+plasma-sdk:
+plasma-sdk:
+
+PACKAGE NAME:  plasma-systemmonitor-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  212 K
+PACKAGE SIZE (uncompressed):  1400 K
+PACKAGE DESCRIPTION:
+plasma-systemmonitor: plasma-systemmonitor (system resource monitor)
+plasma-systemmonitor:
+plasma-systemmonitor: plasma-systemmonitor provides an interface for monitoring system
+plasma-systemmonitor: sensors, process information and other system resources. It is built
+plasma-systemmonitor: on top of the faces system also used to provide widgets for
+plasma-systemmonitor: plasma-desktop and makes use of the ksystemstats daemon to provide
+plasma-systemmonitor: sensor information.
+plasma-systemmonitor:
+plasma-systemmonitor:
+plasma-systemmonitor:
+plasma-systemmonitor:
+
+PACKAGE NAME:  plasma-vault-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  304 K
+PACKAGE SIZE (uncompressed):  1600 K
+PACKAGE DESCRIPTION:
+plasma-vault: plasma-vault (create encrypted vaults)
+plasma-vault:
+plasma-vault: Plasma applet and services for creating encrypted vaults. Plasma Vault
+plasma-vault: offers strong encryption features presented in a user-friendly way.
+plasma-vault: Lock and encrypt documents and hide them when the user is logged in.
+plasma-vault: These 'vaults' can be decrypted and opened easily.
+plasma-vault:
+plasma-vault:
+plasma-vault:
+plasma-vault:
+plasma-vault:
+
+PACKAGE NAME:  plasma-workspace-5.24.90-x86_64-3.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  19648 K
+PACKAGE SIZE (uncompressed):  55910 K
+PACKAGE DESCRIPTION:
+plasma-workspace: plasma-workspace (KDE Plasma Workspace)
+plasma-workspace:
+plasma-workspace: The Plasma Workspace provides support for KDE Plasma Widgets,
+plasma-workspace: integrated search, hardware management, and a high degree of
+plasma-workspace: customizability.
+plasma-workspace:
+plasma-workspace:
+plasma-workspace:
+plasma-workspace:
+plasma-workspace:
+plasma-workspace:
+
+PACKAGE NAME:  plasma-workspace-wallpapers-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  71008 K
+PACKAGE SIZE (uncompressed):  71840 K
+PACKAGE DESCRIPTION:
+plasma-workspace-wallpapers: plasma-workspace-wallpapers (Wallpapers for Plasma)
+plasma-workspace-wallpapers:
+plasma-workspace-wallpapers: Additional wallpapers for the KDE Plasma Workspace.
+plasma-workspace-wallpapers:
+plasma-workspace-wallpapers:
+plasma-workspace-wallpapers:
+plasma-workspace-wallpapers:
+plasma-workspace-wallpapers:
+plasma-workspace-wallpapers:
+plasma-workspace-wallpapers:
+plasma-workspace-wallpapers:
+
+PACKAGE NAME:  polkit-kde-agent-1-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  60 K
+PACKAGE SIZE (uncompressed):  410 K
+PACKAGE DESCRIPTION:
+polkit-kde-agent-1: polkit-kde-agent-1 (KDE polkit authenticator)
+polkit-kde-agent-1:
+polkit-kde-agent-1: This daemon provides a polkit authenticator UI for KDE.
+polkit-kde-agent-1:
+polkit-kde-agent-1: See also:
+polkit-kde-agent-1: https://projects.kde.org/projects/kde/workspace/polkit-kde-agent-1
+polkit-kde-agent-1:
+polkit-kde-agent-1:
+polkit-kde-agent-1:
+polkit-kde-agent-1:
+polkit-kde-agent-1:
+
+PACKAGE NAME:  powerdevil-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  824 K
+PACKAGE SIZE (uncompressed):  3330 K
+PACKAGE DESCRIPTION:
+powerdevil: powerdevil (power management tool)
+powerdevil:
+powerdevil: PowerDevil is a is a configuration tool for Power Management in
+powerdevil: Plasma. Through this module, you can define your computer's behavior
+powerdevil: in various situations, allowing you to save as much energy as
+powerdevil: possible.
+powerdevil:
+powerdevil:
+powerdevil:
+powerdevil:
+powerdevil:
+
+PACKAGE NAME:  qqc2-breeze-style-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  88 K
+PACKAGE SIZE (uncompressed):  790 K
+PACKAGE DESCRIPTION:
+qqc2-breeze-style: qqc2-breeze-style (QQC2 Breeze Style)
+qqc2-breeze-style:
+qqc2-breeze-style: This is a pure Qt Quick/Kirigami Qt Quick Controls style. Unlike
+qqc2-breeze-style: QQC2-Desktop-Style, it does not depend on Qt Widgets and the system
+qqc2-breeze-style: QStyle.
+qqc2-breeze-style:
+qqc2-breeze-style:
+qqc2-breeze-style:
+qqc2-breeze-style:
+qqc2-breeze-style:
+qqc2-breeze-style:
+
+PACKAGE NAME:  sddm-kcm-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  116 K
+PACKAGE SIZE (uncompressed):  660 K
+PACKAGE DESCRIPTION:
+sddm-kcm: sddm-kcm (configure SDDM in kde)
+sddm-kcm:
+sddm-kcm: KCM module for SDDM. This module allows for configuring SDDM in the
+sddm-kcm: KDE System Settings.
+sddm-kcm:
+sddm-kcm: Homepage: https://github.com/sddm/sddm-kcm
+sddm-kcm:
+sddm-kcm:
+sddm-kcm:
+sddm-kcm:
+sddm-kcm:
+
+PACKAGE NAME:  systemsettings-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  344 K
+PACKAGE SIZE (uncompressed):  1660 K
+PACKAGE DESCRIPTION:
+systemsettings: systemsettings (system settings utility)
+systemsettings:
+systemsettings: Control center for KDE software and workspaces.
+systemsettings:
+systemsettings:
+systemsettings:
+systemsettings:
+systemsettings:
+systemsettings:
+systemsettings:
+systemsettings:
+
+PACKAGE NAME:  xdg-desktop-portal-kde-5.24.90-x86_64-1.txz
+PACKAGE LOCATION:  ./plasma
+PACKAGE SIZE (compressed):  240 K
+PACKAGE SIZE (uncompressed):  1090 K
+PACKAGE DESCRIPTION:
+xdg-desktop-portal-kde: xdg-desktop-portal-kde (implementation for xdg-desktop-portal)
+xdg-desktop-portal-kde:
+xdg-desktop-portal-kde: A backend implementation for xdg-desktop-portal using Qt/KF5.
+xdg-desktop-portal-kde:
+xdg-desktop-portal-kde:
+xdg-desktop-portal-kde:
+xdg-desktop-portal-kde:
+xdg-desktop-portal-kde:
+xdg-desktop-portal-kde:
+xdg-desktop-portal-kde:
+xdg-desktop-portal-kde:
+

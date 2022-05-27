@@ -1,0 +1,24 @@
+++========================================
+||
+||   Package:  ./plasma/kwrited-5.24.90-x86_64-1.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-05-20 17:45 ./
+drwxr-xr-x root/root         0 2022-05-20 17:45 install/
+-rw-r--r-- root/root       676 2022-05-20 17:45 install/slack-desc
+drwxr-xr-x root/root         0 2022-05-20 17:45 usr/
+drwxr-xr-x root/root         0 2022-05-20 17:45 usr/doc/
+drwxr-xr-x root/root         0 2022-05-20 17:45 usr/doc/kwrited-5.24.90/
+drwxr-xr-x root/root         0 2022-05-19 12:26 usr/doc/kwrited-5.24.90/LICENSES/
+-rw-r--r-- root/root     17277 2022-05-19 12:26 usr/doc/kwrited-5.24.90/LICENSES/GPL-2.0-or-later.txt
+drwxr-xr-x root/root         0 2022-05-20 17:45 usr/lib64/
+drwxr-xr-x root/root         0 2022-05-20 17:45 usr/lib64/qt5/
+drwxr-xr-x root/root         0 2022-05-20 17:45 usr/lib64/qt5/plugins/
+drwxr-xr-x root/root         0 2022-05-20 17:45 usr/lib64/qt5/plugins/kf5/
+drwxr-xr-x root/root         0 2022-05-20 17:45 usr/lib64/qt5/plugins/kf5/kded/
+-rwxr-xr-x root/root     35296 2022-05-20 17:45 usr/lib64/qt5/plugins/kf5/kded/kwrited.so
+drwxr-xr-x root/root         0 2022-05-20 17:45 usr/share/
+drwxr-xr-x root/root         0 2022-05-20 17:45 usr/share/knotifications5/
+-rw-r--r-- root/root     16824 2022-05-19 12:26 usr/share/knotifications5/kwrited.notifyrc
+
+
