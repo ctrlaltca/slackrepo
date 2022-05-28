@@ -1,0 +1,45 @@
+++========================================
+||
+||   Package:  ./plasma/kde-gtk-config-5.24.90-x86_64-2.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2022-05-28 02:02 ./
+drwxr-xr-x root/root         0 2022-05-28 02:02 install/
+-rw-r--r-- root/root       794 2022-05-28 02:02 install/slack-desc
+drwxr-xr-x root/root         0 2022-05-28 02:02 usr/
+drwxr-xr-x root/root         0 2022-05-28 02:02 usr/doc/
+drwxr-xr-x root/root         0 2022-05-28 02:02 usr/doc/kde-gtk-config-5.24.90/
+drwxr-xr-x root/root         0 2022-05-19 12:17 usr/doc/kde-gtk-config-5.24.90/LICENSES/
+-rw-r--r-- root/root      1288 2022-05-19 12:17 usr/doc/kde-gtk-config-5.24.90/LICENSES/BSD-2-Clause.txt
+-rw-r--r-- root/root      1480 2022-05-19 12:17 usr/doc/kde-gtk-config-5.24.90/LICENSES/BSD-3-Clause.txt
+-rw-r--r-- root/root     17623 2022-05-19 12:17 usr/doc/kde-gtk-config-5.24.90/LICENSES/GPL-2.0-only.txt
+-rw-r--r-- root/root     17622 2022-05-19 12:17 usr/doc/kde-gtk-config-5.24.90/LICENSES/GPL-2.0-or-later.txt
+-rw-r--r-- root/root     34470 2022-05-19 12:17 usr/doc/kde-gtk-config-5.24.90/LICENSES/GPL-3.0-only.txt
+-rw-r--r-- root/root       662 2022-05-19 12:17 usr/doc/kde-gtk-config-5.24.90/LICENSES/LicenseRef-KDE-Accepted-GPL.txt
+-rw-r--r-- root/root      2199 2022-05-19 12:17 usr/doc/kde-gtk-config-5.24.90/README.md
+drwxr-xr-x root/root         0 2022-05-28 02:02 usr/lib64/
+drwxr-xr-x root/root         0 2022-05-28 02:02 usr/lib64/gtk-3.0/
+drwxr-xr-x root/root         0 2022-05-28 02:02 usr/lib64/gtk-3.0/modules/
+-rwxr-xr-x root/root     14336 2022-05-28 02:02 usr/lib64/gtk-3.0/modules/libcolorreload-gtk-module.so
+-rwxr-xr-x root/root     14376 2022-05-28 02:02 usr/lib64/gtk-3.0/modules/libwindow-decorations-gtk-module.so
+drwxr-xr-x root/root         0 2022-05-28 02:02 usr/lib64/kconf_update_bin/
+-rwxr-xr-x root/root     43824 2022-05-28 02:02 usr/lib64/kconf_update_bin/gtk_theme
+-rwxr-xr-x root/root     43784 2022-05-28 02:02 usr/lib64/kconf_update_bin/remove_deprecated_gtk4_option
+drwxr-xr-x root/root         0 2022-05-28 02:02 usr/lib64/libexec/
+-rwxr-xr-x root/root     14608 2022-05-28 02:02 usr/lib64/libexec/gtk3_preview
+drwxr-xr-x root/root         0 2022-05-28 02:02 usr/lib64/qt5/
+drwxr-xr-x root/root         0 2022-05-28 02:02 usr/lib64/qt5/plugins/
+drwxr-xr-x root/root         0 2022-05-28 02:02 usr/lib64/qt5/plugins/kf5/
+drwxr-xr-x root/root         0 2022-05-28 02:02 usr/lib64/qt5/plugins/kf5/kded/
+-rwxr-xr-x root/root    200896 2022-05-28 02:02 usr/lib64/qt5/plugins/kf5/kded/gtkconfig.so
+drwxr-xr-x root/root         0 2022-05-28 02:02 usr/share/
+drwxr-xr-x root/root         0 2022-05-28 02:02 usr/share/kcm-gtk-module/
+-rw-r--r-- root/root     34797 2022-05-19 12:17 usr/share/kcm-gtk-module/preview.ui
+drwxr-xr-x root/root         0 2022-05-28 02:02 usr/share/kconf_update/
+-rw-r--r-- root/root       208 2022-05-19 12:17 usr/share/kconf_update/gtkconfig.upd
+-rwxr-xr-x root/root       307 2022-05-19 12:17 usr/share/kconf_update/remove_window_decorations_from_gtk_css.sh
+drwxr-xr-x root/root         0 2022-05-28 02:02 usr/share/themes/
+drwxr-xr-x root/root         0 2022-05-28 02:02 usr/share/themes/Breeze/
+-rw-r--r-- root/root      3895 2022-05-28 02:02 usr/share/themes/Breeze/window_decorations.css
+
+
