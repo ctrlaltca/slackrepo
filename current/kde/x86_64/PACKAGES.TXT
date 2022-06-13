@@ -1,9 +1,9 @@
-PACKAGES.TXT;  Sat May 28 07:09:15 UTC 2022
+PACKAGES.TXT;  Mon Jun 13 16:31:31 UTC 2022
 
-PACKAGE NAME:  qt5-5.15.4_20220527_b93d8fbb-x86_64-1.txz
+PACKAGE NAME:  qt5-5.15.4_20220611_cc851c42-x86_64-1.txz
 PACKAGE LOCATION:  ./l
-PACKAGE SIZE (compressed):  96728 K
-PACKAGE SIZE (uncompressed):  402360 K
+PACKAGE SIZE (compressed):  97084 K
+PACKAGE SIZE (uncompressed):  400300 K
 PACKAGE DESCRIPTION:
 qt5: qt5 (a C++ graphical user interface toolkit)
 qt5:

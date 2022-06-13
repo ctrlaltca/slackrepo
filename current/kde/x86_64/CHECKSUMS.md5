@@ -10,19 +10,18 @@ tail +13 CHECKSUMS.md5 | md5sum --check | less
 /pub/gnu, or at any GNU mirror site.
 
 MD5 message digest                Filename
-eae518e717ca08d0cad33ff53d6a2cda  ./FILELIST.TXT
+4a0982dcb836b592733172c84488c06d  ./FILELIST.TXT
 8c36cd43689e7458a08480dac4b5d180  ./GPG-KEY
-a58af00f81b8032653251755a83971f3  ./MANIFEST.bz2
-45b2f200e407d78d9072033bcfbe80c2  ./PACKAGES.TXT
-902623d0321b06b67be6922ffad0b0db  ./PACKAGES.TXT.gz
-6e52c93f43daac0f4e19473e83519e5a  ./index.html
-c92457fdf437ae6e7a4888b800a9d9ca  ./l/index.html
-734cd48d9983ea89c11382878402d83d  ./l/qt5-5.15.4_20220527_b93d8fbb-x86_64-1.lst
-021745bc5786dc6659f159b7841ad038  ./l/qt5-5.15.4_20220527_b93d8fbb-x86_64-1.meta
-be9f087edef9d250d81b1b1e14f581cf  ./l/qt5-5.15.4_20220527_b93d8fbb-x86_64-1.txt
-948e8e81129cf863a58ccdcbaf6dbe82  ./l/qt5-5.15.4_20220527_b93d8fbb-x86_64-1.txz
-34ff948080d1bb400ca8fab44f74d431  ./l/qt5-5.15.4_20220527_b93d8fbb-x86_64-1.txz.asc
-71b4c569ebedcb72c4726b18178e1fe1  ./l/qt5-5.15.4_20220527_b93d8fbb-x86_64-1.txz.md5
+9f948080727992c466b013a338a2d19b  ./MANIFEST.bz2
+a69979e7904665e1df0164c45966365f  ./PACKAGES.TXT
+27feedd5d77cdad1903734eb5271ce7a  ./PACKAGES.TXT.gz
+ae9095e68c33fc2beca622d536ae2ef1  ./index.html
+9708a503aedef7b9d8c315a089af4b85  ./l/qt5-5.15.4_20220611_cc851c42-x86_64-1.lst
+57a4ff6caabee8d4ea515e93cc2c3ea2  ./l/qt5-5.15.4_20220611_cc851c42-x86_64-1.meta
+be9f087edef9d250d81b1b1e14f581cf  ./l/qt5-5.15.4_20220611_cc851c42-x86_64-1.txt
+d16c24dca03a97b978610c5208add6b8  ./l/qt5-5.15.4_20220611_cc851c42-x86_64-1.txz
+b24ef5506cecdd9284c71bfc56887cf8  ./l/qt5-5.15.4_20220611_cc851c42-x86_64-1.txz.asc
+6bd0444a3da4674ebe45e575d1702068  ./l/qt5-5.15.4_20220611_cc851c42-x86_64-1.txz.md5
 33bbb3336c325cc2b68d28e00ece5b41  ./plasma/bluedevil-5.24.90-x86_64-2.lst
 95679487eea56ca7c10d25459ee22fe4  ./plasma/bluedevil-5.24.90-x86_64-2.meta
 10f0d017a85c10a47c89414b500edf91  ./plasma/bluedevil-5.24.90-x86_64-2.txt
@@ -53,6 +52,7 @@ ff8021fe1af21bb9abe135690a9bbbaa  ./plasma/breeze-gtk-5.24.90-x86_64-2.txz.md5
 af8047c53f9139c2f57e1b8fe1a4b5cd  ./plasma/drkonqi-5.24.90-x86_64-2.txz
 852d05db2cf665ab528e6d690897b40d  ./plasma/drkonqi-5.24.90-x86_64-2.txz.asc
 65775331e4f1f9c71f74db6ee91fd0ee  ./plasma/drkonqi-5.24.90-x86_64-2.txz.md5
+9aaf98172b38f6b7fde20f07af065797  ./plasma/index.html
 bce1437cd287f3c5e1db35fb25427ccb  ./plasma/kactivitymanagerd-5.24.90-x86_64-2.lst
 7c2075c7a9915a976639a4e8491492da  ./plasma/kactivitymanagerd-5.24.90-x86_64-2.meta
 fcc099924f46348c650f60592e93940b  ./plasma/kactivitymanagerd-5.24.90-x86_64-2.txt
